@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: BizPage
-Template URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
+Template Name: eStartup
+Template URL: https://bootstrapmade.com/estartup-bootstrap-landing-page-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
