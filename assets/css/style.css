@@ -452,15 +452,28 @@ section {
 }
 
 .padd-section {
-  padding-bottom: 80px;
-  padding-top: 80px;
+  padding-bottom: 40px;
+  padding-top: 40px;
 }
 @media (max-width: 992px) {
   .padd-section {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 }
+
+
+.padd-section-inner {
+  padding-bottom: 140px;
+  padding-top: 140px;
+}
+@media (max-width: 552px) {
+  .padd-section-inner {
+    padding-top: 120px;
+    padding-bottom: 120px;
+  }
+}
+
 
 .section-title {
   margin-bottom: 80px;
@@ -593,6 +606,45 @@ section {
   color: #71c55d;
 }
 
+
+#get-started .feature-block-inner {
+  background: #fff none repeat scroll 0 0;
+  padding: 10px 20px;
+  transition: all 0.5s ease-in-out 0s;
+}
+#get-started .feature-block-inner img {
+  height: 30px;
+  margin-bottom: 10px;
+  width: 30px;
+}
+@media (max-width: 991px) {
+  #get-started .feature-block-inner {
+    margin-bottom: 10px;
+  }
+}
+#get-started .feature-block-inner:hover {
+  box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
+  transition: all 0.5s ease-in-out 0s;
+}
+#get-started .feature-block-inner h4 {
+  margin-bottom: 20px;
+}
+#get-started .feature-block-inner p {
+  margin-bottom: 10px;
+}
+#get-started .feature-block-inner a {
+  color: #505050;
+  font-size: 8px;
+  font-weight: 500;
+  text-decoration: none;
+  text-transform: capitalize;
+  transition: 0.3s;
+}
+#get-started .feature-block-inner a:hover {
+  color: #71c55d;
+}
+
+
 /* About Us Section
 --------------------------------*/
 #about-us img {
@@ -619,6 +671,34 @@ section {
   line-height: 36px;
 }
 #about-us .about-content ul li .fa {
+  padding-right: 20px;
+}
+
+
+#about-us-inner img {
+  max-width: 1%;
+}
+#about-us-inner .about-content {
+  padding-top: 60px;
+}
+#about-us-inner .about-content h2 {
+  color: #252525;
+  font-family: "roboto";
+  font-size: 15px;
+  font-weight: 70;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+}
+#about-us-inner .about-content span {
+  font-weight: 400;
+  padding-right: 10px;
+  text-transform: uppercase;
+}
+#about-us-inner .about-content ul li {
+  line-height: 36px;
+}
+#about-us-inner .about-content ul li .fa {
   padding-right: 20px;
 }
 
