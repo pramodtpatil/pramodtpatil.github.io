@@ -9,7 +9,43 @@
 
 <url>
   <loc>https://www.java-interview.com/</loc>
-  <lastmod>2021-10-06T12:02:46+00:00</lastmod>
+  <lastmod>2021-10-06T14:32:44+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.java-interview.com/java.html</loc>
+  <lastmod>2021-10-06T14:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.java-interview.com/spring.html</loc>
+  <lastmod>2021-10-06T14:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.java-interview.com/hibernate.html</loc>
+  <lastmod>2021-10-06T14:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.java-interview.com/springboot.html</loc>
+  <lastmod>2021-10-06T14:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.java-interview.com/java8.html</loc>
+  <lastmod>2021-10-06T14:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.java-interview.com/sql.html</loc>
+  <lastmod>2021-10-06T14:32:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.java-interview.com/index.html</loc>
+  <lastmod>2021-10-06T14:32:44+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
